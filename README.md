@@ -1,4 +1,4 @@
-<p><img align="center" src="https://github.com/kishoreparanthaman/kishoreparanthaman/blob/main/giphy.gif" width="800" height="300" /><p>
+<p><img  src="https://github.com/kishoreparanthaman/kishoreparanthaman/blob/main/giphy.gif" width="800" height="300" /><p>
 <h1 align="center">Hi 👋, I'm Kishore Paranthaman</h1>
 <h3 align="center"> Roboticist and Tech Enthusiast!</h3>
 
