@@ -1,3 +1,4 @@
+<p><img align="center" src="https://github.com/kishoreparanthaman/kishoreparanthaman/blob/main/giphy.gif" >
 <h1 align="center">Hi 👋, I'm Kishore Paranthaman</h1>
 <h3 align="center"> Roboticist and Tech Enthusiast!</h3>
 
