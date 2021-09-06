@@ -1,5 +1,5 @@
 <p><img align="center" src="https://github.com/kishoreparanthaman/kishoreparanthaman/blob/main/giphy.gif" width="1200" height="300" /><p>
-<h1 align="center">Hi src="https://giphy.com/gifs/emoji-ethnic-3nbbQlUpGDdgA" , I'm Kishore Paranthaman</h1>
+<h1 align="center">Hi 👋 , I'm Kishore Paranthaman</h1>
 <h3 align="center"> Roboticist and Tech Enthusiast!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishoreparanthaman&label=Profile%20views&color=0e75b6&style=flat" alt="kishoreparanthaman" /> </p>
